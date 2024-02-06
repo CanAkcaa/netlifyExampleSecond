@@ -31,7 +31,7 @@ const Footer = () => {
             aria-label="facebook"
             rel="noreferrer"
             target="_blank"
-            href="https://www.facebook.com/restaurantkatsu"
+            href="https://www.facebook.com/caasd"
             className="facebook"
           >
             <i className="fab fa-facebook"></i>
@@ -40,7 +40,7 @@ const Footer = () => {
             aria-label="instagram"
             rel="noreferrer"
             target="_blank"
-            href="https://www.instagram.com/katsumaroc"
+            href="https://www.instagram.com/canakca__"
             className="instagram"
           >
             <i className="fab fa-instagram"></i>
@@ -52,16 +52,6 @@ const Footer = () => {
             <span>Akça</span>
           </strong>
           . All Rights Reserved
-        </div>
-        <div className="credits">
-          Designed by
-          <a target="_blank" rel="noreferrer" href="https://bootstrapmade.com/">
-            BootstrapMade
-          </a>{" "}
-          - Developed by
-          <a target="_blank" rel="noreferrer" href="https://www.sourceup.ma/">
-            Source Up
-          </a>
         </div>
       </div>
     </footer>

@@ -7,7 +7,7 @@ const About = () => {
         <div className="row">
           <div className="col-lg-5 align-items-stretch video-box">
             <Image
-              src="/assets/img/gallery/gallery-1.jpg"
+              src="/assets/img/gallery/exterior-photo.jpeg"
               placeholder="blur"
               blurDataURL="/assets/img/gallery/gallery-1.jpg"
               layout="responsive"
@@ -23,17 +23,11 @@ const About = () => {
             <div className="content">
               <div className="section-title">
                 <h2>
-                  <span>Bienvenue</span> chez katsu
+                  <span>Osmanlı Kebap'a</span> hos geldiniz
                 </h2>
               </div>
               <p>
-                Confortablement dans notre restaurant asiatique gastronormique au décor chaleureux convivial, vous
-                degusterez une cuisine creative et authentique On vous propose une cuisine Asiatloue fruit d&apos;un parcours
-                dans différents établissements de qualité, une cuisine Asiatique qui demande un savoir-faire, une
-                maitrise et de la finesse Une sélection de plat et un choix multiple (sushi rolls , sushi boxes et plus
-                ...) réalisé à partir des meilleurs produits frais, travaills de manière délicate, raffinée et livrés
-                chez vous à Casablanca ce qui fait de votre un moment gastronomique délicieux Nous vous repassons bon
-                appétit!
+              Hoş geldiniz! Lezzetin adresi burada başlıyor. Kebap ustalarımızın elinden çıkan enfes lezzetlerle dolu bir lezzet yolculuğuna hazır olun. Eşsiz kebap çeşitlerimiz, her damak tadına hitap eden seçenekler sunuyor. Taze ve doğal malzemelerle hazırlanan kebaplarımız, enfes aromalarıyla sizi büyüleyecek. Şehrin en popüler kebapçısı olarak, misafirlerimize kaliteli hizmet sunmanın gururunu yaşıyoruz. Siz de bizimle bu lezzet dolu yolculuğa katılın ve gerçek kebap deneyimini keşfedin!
               </p>
               <p style={{ display: "none" }}>
                 i love katsu sushi. it is located in casablanca, 17 Rue Sebou, Casablanca 20250 Maroc. and it offers

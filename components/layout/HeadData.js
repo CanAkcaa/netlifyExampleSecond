@@ -8,7 +8,7 @@ const HeadData = () => {
     image: "https://www.katsu.ma/assets/img/logo.png",
     "@id": "https://www.katsu.ma/",
     url: "https://www.katsu.ma/",
-    telephone: "0534 5148991",
+    telephone: "(0212) 320 01 01",
     priceRange: "30-1000",
     menu: "https://www.katsu.ma/",
     servesCuisine: "",
@@ -46,12 +46,12 @@ const HeadData = () => {
         name="description"
       />
       <meta property="og:type" content="article" />
-      <meta property="og:title" content="Katsu Maroc - Sushi Livraison à domicile sur casablanca" />
+      <meta property="og:title" content="Gaziantep Osmanlı Kebap" />
       <meta
         property="og:description"
-        content="Livraison à domicile de sushi sur casablanca. Commander chez katsu maroc le meilleur restaurant asiatique"
+        content="Gaziantep Osmanlı Kebap"
       />
-      {/* <meta property="og:image" content="/assets/img/logo.png" /> */}
+      <meta property="og:image" content="/assets/img/logo.png" />
       <meta property="og:url" content="https://www.katsu.ma/" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta property="og:site_name" content="Katsu" />

@@ -25,8 +25,8 @@ const Contact = () => {
               <i className="fa fa-map-marker-alt"></i>
               <h5>Lokasyon:</h5>
               <p>
-                Quartier Gauthier, 17 Rue Sebou, <br />
-                Casablanca 20250
+              Halide Edip Adıvar, Alaattin Elmas Sokağı No:4, <br />
+              34856 Şişli/İstanbul
               </p>
             </div>
 
@@ -34,9 +34,7 @@ const Contact = () => {
               <i className="fa fa-clock"></i>
               <h5>Çalışma Saatleri:</h5>
               <p>
-                Lundi-Dimanche:
-                <br />
-                12:00 AM - 11:00 PM
+                09.00 - 23.00
               </p>
             </div>
 
@@ -44,8 +42,7 @@ const Contact = () => {
               <i className="fa fa-phone"></i>
               <h5>İletişim Bilgisi:</h5>
               <p>
-                0520 106 140 <br />
-                0614 598 949
+                (0212) 320 01 01 <br />
               </p>
             </div>
 

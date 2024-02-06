@@ -39,7 +39,7 @@ const Gallery = () => {
                       rel="noopener"
                     >
                       <Image
-                        src={`/assets/img/gallery/gallery-${index + 1}.jpg`}
+                        src={`/assets/img/gallery/exterior-photo.jpeg`}
                         // placeholder="blur"
                         // blurDataURL={`/assets/img/gallery/gallery-${index + 1}.jpg`}
                         layout="responsive"

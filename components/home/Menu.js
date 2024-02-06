@@ -39,7 +39,7 @@ const Menu = () => {
                         <div className="" style={{ position: "relative", width: "100%", height: "100%" }}>
                           <Image
                             className="d-block w-100"
-                            src={`/assets/img/menu/menu-${index}.jpg`}
+                            src={`/assets/img/gallery/exterior-photo.jpeg`}
                             placeholder="blur"
                             blurDataURL={`/assets/img/menu/menu-${index}.jpg`}
                             layout="fill"
@@ -50,7 +50,7 @@ const Menu = () => {
                         <div className="" style={{ position: "relative", width: "100%", height: "100%" }}>
                           <Image
                             className="d-block w-100"
-                            src={`/assets/img/menu/menu-${index + 1}.jpg`}
+                            src={`/assets/img/gallery/exterior-photo.jpeg`}
                             placeholder="blur"
                             blurDataURL={`/assets/img/menu/menu-${index + 1}.jpg`}
                             layout="fill"

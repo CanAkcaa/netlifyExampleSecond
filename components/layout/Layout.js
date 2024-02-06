@@ -19,7 +19,7 @@ const Layout = ({ children }) => {
       <Footer />
 
       <a href="tel:+212614598949" className="btn-prim call-delivery-btn">
-        <i className="fa fa-phone-alt"></i> <span>0534 514 8991</span>
+        <i className="fa fa-phone-alt"></i> <span>(0212) 320 01 01</span>
       </a>
     </>
   );

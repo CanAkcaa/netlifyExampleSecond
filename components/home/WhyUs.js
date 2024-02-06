@@ -4,8 +4,7 @@ const WhyUs = () => {
       <div className="container">
         <div className="section-title">
           <h2>
-            Pourquoi choisir
-            <span> notre restaurant ?</span>
+            <span> Neden Osmanlı Kebap ?</span>
           </h2>
         </div>
 
