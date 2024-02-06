@@ -23,7 +23,7 @@ const About = () => {
             <div className="content">
               <div className="section-title">
                 <h2>
-                  <span>Osmanlı Kebap'a</span> hos geldiniz
+                  <span>Osmanlı Kebap`a hos geldiniz</span>
                 </h2>
               </div>
               <p>
