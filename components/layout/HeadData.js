@@ -51,7 +51,7 @@ const HeadData = () => {
         property="og:description"
         content="Gaziantep Osmanlı Kebap"
       />
-      <meta property="og:image" content="/assets/img/logo.png" />
+      <meta property="og:image" content="/assets/img/icon.png" />
       <meta property="og:url" content="https://www.katsu.ma/" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta property="og:site_name" content="Osmanlı Kebap" />
