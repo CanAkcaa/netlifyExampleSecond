@@ -5,7 +5,7 @@ const HeadData = () => {
     "@context": "https://schema.org",
     "@type": "Restaurant",
     name: "Osmanlı Kebap",
-    image: "https://www.katsu.ma/assets/img/logo.png",
+    image: "https://www.katsu.ma/assets/img/icon.png",
     "@id": "https://www.katsu.ma/",
     url: "https://www.katsu.ma/",
     telephone: "(0212) 320 01 01",
@@ -54,7 +54,7 @@ const HeadData = () => {
       <meta property="og:image" content="/assets/img/logo.png" />
       <meta property="og:url" content="https://www.katsu.ma/" />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta property="og:site_name" content="Katsu" />
+      <meta property="og:site_name" content="Osmanlı Kebap" />
       <meta name="twitter:image:alt" content="Katsu Logo" />
       <meta
         name="keywords"
